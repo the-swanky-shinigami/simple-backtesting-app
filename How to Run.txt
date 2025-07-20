@@ -1,10 +1,12 @@
 To run your new web app:
-Make sure your virtual environment is activated.
+
+Make sure your virtual environment is activated:
+
+	venv\Scripts\activate
+
 Install the new requirements (if you haven’t already):
 
 	pip install -r requirements.txt
-
-
 
 Start the app with:
 
