@@ -1,0 +1,13 @@
+To run your new web app:
+Make sure your virtual environment is activated.
+Install the new requirements (if you haven’t already):
+
+	pip install -r requirements.txt
+
+
+
+Start the app with:
+
+	streamlit run app.py
+
+Open the provided local URL in your browser (works on desktop and mobile).
